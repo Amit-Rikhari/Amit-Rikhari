@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Amit-Rikhari
 - 👀 I’m interested in - OSS Devops, Voip.
-- 🌱 I’m currently learning OSS Devops
-- 📫 find me on linkdin.
+- Handson experience on tools such as - CI/CD [Jenkins],Tomcat,wildfly,sonarqube,nexus,docker,docker-swarm,ansible,linux bash.
