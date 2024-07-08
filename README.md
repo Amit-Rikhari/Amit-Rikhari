@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **techyink011@gmail.com**
 
+- Check out my work at <a href=https://amit-rikhari.github.io/Portfolio_website/>Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-rikhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitrikhari" height="30" width="40" /></a>
